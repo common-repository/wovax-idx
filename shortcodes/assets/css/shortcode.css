@@ -1,0 +1,10 @@
+.wovax-idx-shrt-warn {
+    font-size     : 13px;
+    padding-left  : 15px;
+    background    : #FDECC4;
+    border-left   : 9px solid #FFB913;
+    color         : #2c3e50;
+    padding-top   : 20px;
+    padding-bottom: 1px;
+    margin-top    : 5px;
+}
